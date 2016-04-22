@@ -1,0 +1,8 @@
+"Hey there."
+"This is like, a super simple beginning to a VN engine."
+{"action": "show", "type": "sprite", "target": "sad_winter", "easing": {"function": "Quadratic", "type": "Out"}, "start": {"x": 0, "y": 0, "alpha": 0}, "end": {"x": 100, "y": 0, "alpha": 1}}
+"Here's a sprite."
+"The engine really isn't very flexible yet though."
+"Still working on it."
+John "Here is a person saying something."
+John "Super impressive."

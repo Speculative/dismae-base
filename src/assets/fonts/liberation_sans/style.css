@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'LiberationSans';
+  src: url('LiberationSans.ttf') format('truetype');
+}
+
+body {
+    font-family: 'LiberationSans';
+}
+
+.fontLoader {
+    position: absolute;
+    left: -1000px;
+}
