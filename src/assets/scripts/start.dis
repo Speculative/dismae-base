@@ -16,11 +16,11 @@ show sad at origin opacity 0 animate to left opacity 1 over 1 quadratic out
 
 w "I'm also saying something and actually have a sprite."
 
-w "Mildly surprised this works fairly well."
+w "Blah blah blah."
 
 hide sad animate to middleLeft opacity 0 over 1 quadratic out
 
-"The sprite should be removed from cache now."
+"The sprite should be gone now."
 
 "Now let's try transitioning a sprite."
 
@@ -32,18 +32,6 @@ change sad to smug animate over 0.25 quadratic inout
 
 "Then we'll change the sprite."
 
-hide smug
+hide smug animate to middleLeft opacity 0 over 1 quadratic out
 
-show normal at rightOrigin opacity 0 animate to right opacity 1 over 1 quadratic out
-
-wa "Testing with waverly now."
-
-wa "Aw yiss"
-
-show sad at origin opacity 0 animate to left opacity 1 over 1 quadratic out
-
-"Wait for it."
-
-change sad to smug animate over 0.25 quadratic inout
-
-"Hopefully it works."
+"That's it for now. Back to the menu."
