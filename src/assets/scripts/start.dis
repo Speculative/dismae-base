@@ -1,12 +1,15 @@
 j = John
 b = Bob
 w = Winter
-wa = Waverly
 origin = 0 0
 left = 100 0
 middleLeft = 200 0
 rightOrigin = 904 0
 right = 804 0
+
+show street as background
+
+"We have a background!"
 
 j "I am saying something."
 
@@ -15,6 +18,10 @@ b "I am also saying something."
 show sad at origin opacity 0 animate to left opacity 1 over 1 quadratic out
 
 w "I'm also saying something and actually have a sprite."
+
+"Changing the background..."
+
+change street to storefront animate over .75 quadratic inout
 
 w "Blah blah blah."
 
