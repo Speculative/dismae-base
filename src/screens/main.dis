@@ -1,0 +1,5 @@
+music main_menu
+
+show main_menu at 0 0 opacity 0 animate to opacity 1 over 2 linear none
+
+button play_button at 400 600 opacity 0 execute startGame animate to opacity 1 over 2 linear none
