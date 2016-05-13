@@ -7,9 +7,13 @@ middleLeft = 200 0
 rightOrigin = 904 0
 right = 804 0
 
-show street as background
+play in_game
 
-"We have a background!"
+"We have music!"
+
+show street as background opacity 0 animate opacity 1 over 1 linear none
+
+"And we have a background!"
 
 j "I am saying something."
 

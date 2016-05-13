@@ -4,10 +4,10 @@
 }
 
 body {
-    font-family: 'LiberationSans';
+  font-family: 'LiberationSans';
 }
 
 .fontLoader {
-    position: absolute;
-    left: -1000px;
+  position: absolute;
+  left: -1000px;
 }

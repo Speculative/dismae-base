@@ -1,4 +1,7 @@
 {
   "title": "Dismae Base Game",
-  "fontStylesheet": "LiberationSans"
+  "fontStylesheet": "LiberationSans",
+  "screens": {
+    "main": "main"
+  }
 }
