@@ -9,7 +9,7 @@ right = 804 0
 
 "Click to fade in music..."
 
-play in_game volume 0 animate volume 1 over 1 quadratic out
+play in_game loop volume 0 animate volume 1 over 1 quadratic out
 
 "And now a background..."
 
