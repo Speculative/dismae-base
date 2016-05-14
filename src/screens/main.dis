@@ -1,4 +1,4 @@
-play main_menu
+play main_menu volume 0 animate volume 1 over 1 quadratic out
 
 show main_bg as background at 0 0 opacity 0 animate opacity 1 over 2 linear none
 
