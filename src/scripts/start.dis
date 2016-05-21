@@ -45,6 +45,14 @@ change sad to smug animate over 0.25 quadratic inout
 
 "Then we'll change the sprite."
 
-hide smug animate to middleLeft opacity 0 over 1 quadratic out
+"Now lets do a forced wait for 3 seconds."
+
+wait 3
+
+change smug to sad animate over 0.25 quadratic inout
+
+"Success!"
+
+hide sad animate to middleLeft opacity 0 over 1 quadratic out
 
 "That's it for now. Back to the menu."
